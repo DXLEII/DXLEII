@@ -17,7 +17,7 @@
 
 <!-- highlighted repositorys -->
 <section class="highlighted-repo">
-  <h2>Highlighted Repository:</h2>
+  <h2>Highlighted Repositorys:</h2>
   <a href="https://github.com/DXLEII/BlogTemplate">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=DXLEII&repo=BlogTemplate&theme=dark" alt="BlogTemplate Repo">
   </a>
