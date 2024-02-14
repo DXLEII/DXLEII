@@ -2,7 +2,7 @@
 
 <header>
   <h1>Welcome to DXLEII's GitHub Profile!</h1>
-  <p>Empowering businesses through technology solutions 🚀</p>
+  <p>I'm enjoy creating user-centric applications with a focus on simplicity and ease of deployment to further empower the space of open source software.</p>
 </header>
 
 <!-- languages -->
