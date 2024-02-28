@@ -24,6 +24,12 @@
 
   <a href="https://github.com/DXLEII/bluesky--bot">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=DXLEII&repo=bluesky--bot&theme=dark" alt="bluesky--bot Repo">
+  </a>
+
+  <a href="https://github.com/DXLEII/React-Templates">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DXLEII&repo=React-Templates&theme=dark" alt="React-Templates Repo">
+  </a>
+    
 </section>
 
 <section>
